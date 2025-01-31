@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xPIFiFfLwA0XA33As/stg7hFrY4DkRG5tIFTq3S0Eac=",
+  "Source": "WebApplicationCommand",
+  "BasePath": "_content/WebApplicationCommand",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
